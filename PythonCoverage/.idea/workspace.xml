@@ -52,12 +52,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="outputdate.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="outputdate.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/outputdate.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="80" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="factorial.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/factorial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="factorial_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/factorial_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,6 +101,8 @@
         <option value="$PROJECT_DIR$/output.py" />
         <option value="$PROJECT_DIR$/datetime.py" />
         <option value="$PROJECT_DIR$/outputdate.py" />
+        <option value="$PROJECT_DIR$/factory.py" />
+        <option value="$PROJECT_DIR$/factory_test.py" />
       </list>
     </option>
   </component>
@@ -393,9 +417,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="42" width="1440" height="770" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -484,6 +508,24 @@
         <state relative-caret-position="120">
           <caret line="8" column="80" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factorial_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

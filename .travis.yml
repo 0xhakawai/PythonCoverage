@@ -2,13 +2,12 @@ language: python
 python:
   - "2.7"
 cache: pip
-sudo: true
-git:
-  submodules: false
-env:
-# - PYTHONPATH=$PYTHONPATH:$HOME/ DEVICE_TYPE=PERSONAL_ROBOT
-before_script:
-  - pip install coveralls
+install:
+  - pip install python-coveralls
+  - pip install coverage
+  - pip install nose
 script:
-  - coverage run --source=PythonCoverage script.py test
+  - python setup.py install
+  - nosetests --with-coverage
+after_success:
   - coveralls
