@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f0010ac-34df-432a-9daa-fc42208d2577" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/factorial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_factorial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coverage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parse_mounts.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.coverage" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.coveragerc" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,14 +38,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_factorial.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_factorial.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_factorial.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="375">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parse_mounts.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parse_mounts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coverage.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/coverage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,6 +87,8 @@
       <list>
         <option value="$PROJECT_DIR$/factorial.py" />
         <option value="$PROJECT_DIR$/test_factorial.py" />
+        <option value="$PROJECT_DIR$/parse_mounts.py" />
+        <option value="$PROJECT_DIR$/coverage.py" />
       </list>
     </option>
   </component>
@@ -412,11 +436,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_factorial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="375">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_mounts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coverage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

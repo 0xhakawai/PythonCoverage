@@ -10,3 +10,4 @@ script:
   - nosetests --with-coverage
 after_success:
   - coveralls #send report to coveralls
+  - coveralls -v --cov coveralls --cov-report term-missing
