@@ -1,0 +1,14 @@
+language: python
+python:
+  - "2.7"
+cache: pip
+sudo: true
+git:
+  submodules: false
+env:
+# - PYTHONPATH=$PYTHONPATH:$HOME/ DEVICE_TYPE=PERSONAL_ROBOT
+before_script:
+  - pip install coveralls
+script:
+  - coverage run --source=PythonCoverage script.py test
+  - coveralls
