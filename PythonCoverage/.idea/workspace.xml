@@ -72,8 +72,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="factorial_test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/factorial_test.py">
+      <file leaf-file-name="test_factorial.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_factorial.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
@@ -519,7 +519,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/factorial_test.py">
+    <entry file="file://$PROJECT_DIR$/test_factorial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
