@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f0010ac-34df-432a-9daa-fc42208d2577" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_factorial.py" afterPath="$PROJECT_DIR$/test/test_factorial.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_mounttab.py" afterPath="$PROJECT_DIR$/test/test_mounttab.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <ignored path="Python.iws" />
     <ignored path=".idea/workspace.xml" />

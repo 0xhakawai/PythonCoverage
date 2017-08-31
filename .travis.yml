@@ -7,6 +7,9 @@ install:
   - pip install nose
 script:
   #- python setup.py install
-  - nosetests --with-coverage
+  #- nosetests --with-coverage
+  - coverage run
+  - coverage report -m
+  - coverage html
 after_success:
   - coveralls #send report to coveralls
