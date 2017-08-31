@@ -20,6 +20,10 @@ class TestFactorial(unittest.TestCase):
         """
         self.assertRaises(ZeroDivisionError, div, 0)
 
+    def test_div(self):
+        result = div(5)
+        self.assertEqual(result,2)
+
 
 
 if __name__ == '__main__':
