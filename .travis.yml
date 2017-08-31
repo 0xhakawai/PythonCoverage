@@ -8,7 +8,7 @@ install:
 script:
   #- python setup.py install
   #- nosetests --with-coverage
-  - coverage run
+  - coverage -rm
   - coverage report -m
   - coverage html
 after_success:
