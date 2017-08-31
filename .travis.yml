@@ -9,4 +9,4 @@ script:
   #- python setup.py install
   - nosetests --with-coverage
 after_success:
-  - coverage #send report to coveralls
+  - coveralls #send report to coveralls
